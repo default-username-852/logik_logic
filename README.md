@@ -1,2 +1,3 @@
 # modsim_logik
-här är logiken bakom allt :)
+här är logiken bakom modsimen
+:)
