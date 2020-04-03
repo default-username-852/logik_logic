@@ -114,3 +114,11 @@ Cargo.lock
 .history
 
 # End of https://www.gitignore.io/api/rust,intellij,visualstudiocode
+
+
+#Added by cargo
+#
+#already existing elements are commented out
+
+/target
+#**/*.rs.bk
